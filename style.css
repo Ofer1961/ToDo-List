@@ -1,0 +1,13 @@
+body{
+	width: 300px;
+	margin: 0 auto;
+}
+
+li:hover {
+	text-decoration: line-through;
+	cursor: pointer;
+}
+
+ul{
+	list-style: none;
+}
